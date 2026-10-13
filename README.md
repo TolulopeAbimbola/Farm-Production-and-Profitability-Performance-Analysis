@@ -64,8 +64,7 @@ The dashboard highlights six major indicators:
 
 KPI
 
-<img width="1280" height="499" alt="Image" src="https://github.com/user-attachments/assets/837eead3-e320-4ee6-bc05-1df9b2d2769e" />
-
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/3336c504-b5f6-4d9b-ade5-db2f8f782c46" />
 
 Insight: The reported revenue is higher than the reported cost, indicating a positive overall financial result. The facility indicators also highlight a potential infrastructure challenge that deserves further investigation.
 
