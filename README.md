@@ -311,7 +311,7 @@ By combining key performance indicators with comparative visualizations, the das
 
 The project also highlights the importance of moving beyond visual presentation to sound interpretation: agricultural decisions should consider profit margins, production efficiency, infrastructure needs, and transportation costs rather than relying on total values alone.
 
-# CO-Author
+# Author
 
 Abimbola Tolulope
 
