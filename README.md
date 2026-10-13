@@ -16,7 +16,7 @@ The analysis evaluates agricultural performance across geographical locations an
 - **Dataset size:** 5,000 farm records
 
 
-### 🎯 Project Goal
+###  Project Goal
 
 The primary goal is to transform agricultural data into actionable insights that support better farm management, financial planning, resource allocation, and agricultural investment decisions.
 
@@ -313,7 +313,6 @@ The project also highlights the importance of moving beyond visual presentation 
 
 # CO-Author
 
-Abimbola Tolulope &
-Adebayo E. oluwapelumi
+Abimbola Tolulope
 
 
