@@ -21,6 +21,7 @@ The analysis evaluates agricultural performance across geographical locations an
 The primary goal is to transform agricultural data into actionable insights that support better farm management, financial planning, resource allocation, and agricultural investment decisions.
 
 The project uses Microsoft Power BI to compare crop profitability, regional production, seasonal yield, transportation costs, and farm infrastructure, providing a clearer understanding of agricultural performance across Nigeria.
+
 # Objectives
 
 ## The analysis was designed to:
@@ -51,7 +52,7 @@ DAX (Data Analysis Expressions): Measures and calculations, where applicable, fo
 
 # Dashboard || Report
 
-<img width="959" height="467" alt="Image" src="https://github.com/user-attachments/assets/45c9874b-41c4-4cc2-af73-baaca96b0a1a" />
+<img width="1417" height="797" alt="Image" src="https://github.com/user-attachments/assets/86dc1360-ed30-488d-ac19-082933aa29e3" />
 
 ## Key Insights-Farm Production and Profitability Performance Analysis across Nigeria
 
